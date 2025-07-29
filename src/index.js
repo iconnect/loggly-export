@@ -4,7 +4,7 @@ const fs = require("fs");
 const dayjs = require("dayjs");
 const path = require("path");
 
-const START_TIME = "2025-06-10T00:00:00.000Z";
+const START_TIME = "2025-06-29T00:00:00.000Z";
 const outputDir = "output";
 const MAX_EVENTS = 5000;
 
